@@ -1,3 +1,9 @@
 hello every one
+<<<<<<< HEAD
+modification
+done
+well
+=======
 check improvment
 error occured
+>>>>>>> 444a226596de87ce66d9525c651493acda3b91af
